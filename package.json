@@ -2,6 +2,6 @@
   "name": "sandbox-renovate-shard-05",
   "private": true,
   "dependencies": {
-    "lodash": "4.17.20"
+    "lodash": "4.18.1"
   }
 }
